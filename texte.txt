@@ -1,0 +1,15 @@
+La programmation orientée objet est un paradigme de programmation.
+Elle organise le code autour d'objets qui combinent données et comportements.
+Java est un langage fortement orienté objet.
+
+Les classes définissent la structure et les fonctionnalités des objets.
+Un objet est une instance d'une classe.
+Les attributs représentent les données d'un objet.
+Les méthodes représentent les actions ou comportements d'un objet.
+
+L'héritage permet aux classes d'hériter des propriétés d'autres classes.
+Il favorise la réutilisation du code et réduit la redondance.
+Le polymorphisme permet aux objets de prendre plusieurs formes.
+
+Les interfaces définissent des contrats que les classes doivent respecter.
+Elles permettent un héritage multiple de fonctionnalités en Java.
